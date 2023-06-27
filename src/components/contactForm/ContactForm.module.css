@@ -1,0 +1,39 @@
+.form{
+    display: block;
+    border: 2px solid #000;    
+    padding: 10px;
+}
+
+.input__title{
+    font-size: 18px;
+}
+
+.number {
+    margin-top: 20px;
+}
+
+.input{
+    font-size: 12px;
+    cursor: pointer;
+}
+.input:hover,
+.input:focus {
+    border: 2px solid #2196F3;
+}
+
+.button__add {
+    font-size: 12px;
+    font-weight: 500;
+    display: block;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 0 10px;
+    background-color: #fff;
+    border: 1px solid #bbb8b8;
+    cursor: pointer;
+}
+
+.button__add:hover {
+    background-color: #2571f5;
+    color: #fff;
+}

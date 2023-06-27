@@ -1,0 +1,21 @@
+.contact__item{    
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;    
+    align-items: center;
+    margin-top: 20px;        
+}
+
+.btn__close{
+    font-size: 12px;
+    font-weight: 500;        
+    border-radius: 5px;
+    padding: 0 10px;
+    background-color: #fff;
+    border: 1px solid #bbb8b8;
+    cursor: pointer;
+}
+.btn__close:hover {
+    background-color: #2571f5;
+    color: #fff;
+}

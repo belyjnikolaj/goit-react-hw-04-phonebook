@@ -1,0 +1,14 @@
+.phonebook__container{
+    width: 400px;
+    padding: 40px;
+}
+.phonebook__title{
+    font-weight: 700;
+}
+.contacts__title{
+    font-weight: 700;
+    font-style: 32px;
+}
+.contacts__title{
+    margin-top: 20px;
+}
